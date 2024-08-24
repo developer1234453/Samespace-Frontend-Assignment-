@@ -73,7 +73,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 For any questions or feedback, please contact:
 
-- **Email**: your-email@example.com
+- **Email**: midhunchandera@gmail.com
 - **GitHub**: [midhun A](https://github.com/developer1234453)
 
 ---
